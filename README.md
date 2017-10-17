@@ -1,0 +1,2 @@
+# mojeHodinyLearn2code
+školenie
